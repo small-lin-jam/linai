@@ -1,4 +1,4 @@
-# LInAI · 一站式本地AI训练与应用工具
+# LinAI · 一站式本地AI训练与应用工具
 
 [![Forks](https://img.shields.io/github/forks/small-lin-jam/linai.svg?style=for-the-badge)](https://github.com/small-lin-jam/linai/network/members)
 [![Stargazers](https://img.shields.io/github/stars/small-lin-jam/linai.svg?style=for-the-badge)](https://github.com/small-lin-jam/linai/stargazers)
@@ -10,7 +10,7 @@
 
 ## ✨ 核心功能
 
-LInAI是一款集**数据获取-模型训练-即时部署**于一体的本地化AI工具，旨在降低AI应用门槛：
+LinAI是一款集**数据获取-模型训练-即时部署**于一体的本地化AI工具，旨在降低AI应用门槛：
 - 自动从网络采集高质量训练数据
 - 本地自动化模型训练流程，无需专业知识
 - 训练完成后即时加载模型，开箱即用
@@ -34,7 +34,7 @@ LInAI是一款集**数据获取-模型训练-即时部署**于一体的本地化
 - 对本地AI应用有热情
 - 能贡献代码或测试反馈
 
-欢迎联系：linjunhui2012@126.com
+欢迎联系：linjunhui2012@hotmail.com
 
 
 ## 👨💻 开发者数据看板
