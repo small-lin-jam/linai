@@ -8,6 +8,14 @@
 [![Downloads](https://img.shields.io/github/downloads/small-lin-jam/linai/total?style=for-the-badge&color=c0392b)](https://github.com/small-lin-jam/linai/releases/latest)
 [![License](https://img.shields.io/github/license/small-lin-jam/linai?style=for-the-badge&color=9370db)](https://github.com/small-lin-jam/linai/blob/main/LICENSE)  
 
+## 📊 开发者数据看板
+
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=small-lin-jam&layout=pie&theme=tokyonight" alt="技术栈分布" width="400">  
+  <br><br>  
+  <img src="https://github-readme-stats.vercel.app/api?username=small-lin-jam&show_icons=true&theme=tokyonight&locale=cn" alt="开发者数据" width="600">  
+</div>  
+
 ### 🙏 关注我们  
 想了解更多实用工具？欢迎访问工作室主页：  
 
