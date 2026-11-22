@@ -1,5 +1,6 @@
 # linai
 一个自制的AI客户端（依赖ollama）
+
 [![Forks](https://img.shields.io/github/forks/small-lin-jam/linai.svg?style=for-the-badge&color=3498db)](https://github.com/small-lin-jam/linai/network/members)
 [![Stargazers](https://img.shields.io/github/stars/small-lin-jam/linai.svg?style=for-the-badge&color=e67e22)](https://github.com/small-lin-jam/linai/stargazers)
 [![Issues](https://img.shields.io/github/issues/small-lin-jam/linai.svg?style=for-the-badge&color=9b59b6)](https://github.com/small-lin-jam/linai/issues)
